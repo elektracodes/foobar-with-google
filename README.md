@@ -35,3 +35,5 @@ Why did you sign up for infiltration duty again? The pamphlets from Bunny HQ pro
 # Chalenges
 ## Level 1
 - [The cake is not a lie](level-1/the-cake-is-not-a-lie)
+## Level 2
+- [Elevator maintenance](level-2/elevator-maintenance)
