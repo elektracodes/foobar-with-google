@@ -41,3 +41,6 @@ Why did you sign up for infiltration duty again? The pamphlets from Bunny HQ pro
 ## Level 3
 - [The Grandest staircase of them all](level-3/the-grandest-staircase-of-them-all)
 - [Queue to do](level-3/queue-to-do/)
+- [Fuel Injection Perfection](level-3/fuel-injection-perfection/)
+## Level 4
+- [Bringing a Gun to a Trainer Fight](level-4/bringing-a-gun-to-a-trainer-fight/)
