@@ -37,3 +37,6 @@ Why did you sign up for infiltration duty again? The pamphlets from Bunny HQ pro
 - [The cake is not a lie](level-1/the-cake-is-not-a-lie)
 ## Level 2
 - [Elevator maintenance](level-2/elevator-maintenance)
+- [Bunny Worker locations](level-2/bunny-worker-locations)
+## Level 3
+- [The Grandest staircase of them all](level-3/the-grandest-staircase-of-them-all)
