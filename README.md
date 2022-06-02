@@ -40,3 +40,4 @@ Why did you sign up for infiltration duty again? The pamphlets from Bunny HQ pro
 - [Bunny Worker locations](level-2/bunny-worker-locations)
 ## Level 3
 - [The Grandest staircase of them all](level-3/the-grandest-staircase-of-them-all)
+- [Queue to do](level-3/queue-to-do/)
